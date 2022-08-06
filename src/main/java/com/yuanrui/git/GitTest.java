@@ -8,5 +8,6 @@ package com.yuanrui.git;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("git fffff222f");
+        System.out.println("git fffff222f");
     }
 }
